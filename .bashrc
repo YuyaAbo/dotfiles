@@ -17,25 +17,14 @@ alias ...='cd ..;cd ..'
 # git
 alias add='git add'
 alias br='git branch'
-alias co='git checkout'
 alias cm='git commit'
+alias co='git checkout'
 alias diff='git diff'
 alias log='git log'
 alias pull='git pull'
 alias push='git push'
-alias st='git status'
-
-
-alias br='git branch'
-alias co='git checkout'
-alias cm='git commit'
-alias st='git status'
-alias pull='git pull'
-alias push='git push'
-alias add='git add'
-alias log='git log'
-alias diff='git diff'
 alias remote='git remote'
+alias st='git status'
 alias stash='git stash'
 
 PS1="\e[36m\e [[\u@\h] \w \[\e[0m\]\n\\$ "
