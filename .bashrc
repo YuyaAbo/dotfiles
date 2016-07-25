@@ -14,7 +14,7 @@ export PATH=$HOME/.nodebrew/current/bin:$PATH
 alias cl='clear'
 alias ..='cd ..'
 alias ...='cd ..;cd ..'
-# git
+# git shortcut
 alias add='git add'
 alias br='git branch'
 alias cm='git commit'
