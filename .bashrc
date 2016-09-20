@@ -28,4 +28,4 @@ alias remote='git remote'
 alias st='git status'
 alias stash='git stash'
 
-PS1="\e[36m\e [[\u@\h] \w \[\e[0m\]\n\\$ "
+PS1="\e[41m\e [\u@\h] \w \[\e[0m\]\n\e[44m\$\[\e[0m\] "
